@@ -113,15 +113,7 @@ LlamaIndex • Qdrant • ChromaDB
 
 ---
 
-### 💼 Open to Work
-
-I help agencies and startups ship AI features without hiring full-time.
-
-**Available for:**
-- 🇦🇺 Contract projects (especially with Australian agencies)
-- 🔧 AI feature development for existing products
-- 👁️ Computer Vision / Document AI / LLM integrations
-- 📱 Flutter + ML mobile applications
+### 
 
 **Let's talk:** [aryanjp032001@gmail.com](mailto:aryanjp032001@gmail.com)
 
